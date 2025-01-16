@@ -29,4 +29,4 @@ Este proyecto es un CRUD básico implementado en JavaScript que interactúa con 
 -JSONPlaceholder API
 
 ## Formulario
-![Formulario](img/formulario_img)
+![Formulario](https://github.com/Balti2003/Proyecto_Crud_JavaScript/blob/master/img/formulario_img.png)
